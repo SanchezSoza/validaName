@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ValidateName
+Implementation-Version: 1.5.18.RELEASE
+Built-By: rodrigosanchez
+Implementation-Vendor-Id: cl.chl.rs.project.option
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/ValidateName
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
